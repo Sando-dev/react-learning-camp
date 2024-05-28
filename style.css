@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+
+#first-paragraph {
+    border: 5px solid lawngreen;
+    border-radius: 10px;
+}
+
+.second-paragraph {
+    border: 2px dotted firebrick;
+}
+
+
+.title {
+    font-size: 50px;
+    color: blueviolet;
+}
