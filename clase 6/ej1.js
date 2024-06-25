@@ -1,5 +1,5 @@
 const userName = "Bautista Corti";
-let userAge = 25;
+let age = 25;
 
 console.log(userName);
-console.log(userAge);
+console.log(age);
