@@ -1,0 +1,19 @@
+.pet-card {
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px;
+    
+
+    flex: 1 1 300px;
+    max-width: 300px;
+    box-sizing: border-box;
+
+}
+
+
+.pet-title {
+    font-size: 1.5em;
+}
